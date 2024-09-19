@@ -1,7 +1,6 @@
 {
   "name": "@reqwest/fetch-win32-x64-msvc",
   "version": "0.0.6",
-  "repository": "github:jordinl/reqwest-fetch",
   "os": [
     "win32"
   ],
@@ -14,6 +13,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">= 10"
-  }
+    "node": ">= 20"
+  },
+  "repository": "github:jordinl/reqwest-fetch"
 }

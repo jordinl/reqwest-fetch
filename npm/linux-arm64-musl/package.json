@@ -1,5 +1,5 @@
 {
-  "name": "@reqwest/fetch-linux-arm64-gnu",
+  "name": "@reqwest/fetch-linux-arm64-musl",
   "version": "0.0.6",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "fetch.linux-arm64-gnu.node",
+  "main": "fetch.linux-arm64-musl.node",
   "files": [
-    "fetch.linux-arm64-gnu.node"
+    "fetch.linux-arm64-musl.node"
   ],
   "license": "MIT",
   "engines": {
@@ -17,6 +17,6 @@
   },
   "repository": "github:jordinl/reqwest-fetch",
   "libc": [
-    "glibc"
+    "musl"
   ]
 }

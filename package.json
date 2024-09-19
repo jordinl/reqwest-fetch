@@ -1,6 +1,6 @@
 {
   "name": "@reqwest/fetch",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": "github:jordinl/reqwest-fetch",

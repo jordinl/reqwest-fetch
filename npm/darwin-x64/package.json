@@ -1,6 +1,7 @@
 {
   "name": "@reqwest/fetch-darwin-x64",
   "version": "0.0.2",
+  "url": "https://github.com/jordinl/reqwest-fetch",
   "os": [
     "darwin"
   ],

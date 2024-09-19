@@ -1,6 +1,7 @@
 {
   "name": "@reqwest/fetch-darwin-arm64",
   "version": "0.0.5",
+  "repository": "github:jordinl/reqwest-fetch",
   "os": [
     "darwin"
   ],

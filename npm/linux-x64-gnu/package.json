@@ -1,6 +1,7 @@
 {
   "name": "@reqwest/fetch-linux-x64-gnu",
   "version": "0.0.5",
+  "repository": "github:jordinl/reqwest-fetch",
   "os": [
     "linux"
   ],

@@ -1,6 +1,7 @@
 {
   "name": "@reqwest/fetch-win32-x64-msvc",
   "version": "0.0.5",
+  "repository": "github:jordinl/reqwest-fetch",
   "os": [
     "win32"
   ],
